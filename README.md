@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @shinewanna
+- 👀 I’m interested in Flutter Development(Android, iOS, Web), Android Native(Java)
+- 💞️ My journey is start from my second year of my university. I have been learned Java from my university when second year and I love to play with Java. Then, I decided to change my path that's Java to Native Android with Java. In third year, I was learn and excute some projects with Native Android. Then, I started doing Flutter till now. I have 1 year experience on Native Android with Java and 2.5 to 3 years experience with Flutter.
+- ✨ Visit my portfolio to know more about my skills and services https://shinewanna.github.io/portfolio/
+- 📫 You can reach me by mailing at shinewanna97@gmail.com
+
+
+<!---
+shinewanna/shinewanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
